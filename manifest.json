@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "serverPack": {
+    "version": "v1",
+    "url": "https://github.com/charlie-schiaffino/trazo-launcher-releases/releases/download/serverpack-v1/serverpack.tar.gz"
+  },
+  "branding": {
+    "logoUrl": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/assets/logo.png",
+    "motd": "Evento del finde: Boss raid sábado 22hs",
+    "motdLink": "https://trazo.app/eventos"
+  },
+  "news": [
+    {
+      "date": "2026-04-19",
+      "title": "Nuevo dungeon agregado",
+      "body": "Agregamos un dungeon nuevo en el bioma frío al norte. Spawns en coords ~5000,5000."
+    }
+  ],
+  "maintenance": {
+    "enabled": true,
+    "message": "El server está en mantenimiento. Volvemos en ~30 min."
+  }
+}
