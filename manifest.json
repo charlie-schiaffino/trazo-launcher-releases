@@ -17,7 +17,7 @@
     }
   ],
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "message": "El server est\u00e1 en mantenimiento. Volvemos en ~30 min."
   },
   "clientMods": [
