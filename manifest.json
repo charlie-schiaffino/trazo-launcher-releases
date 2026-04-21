@@ -87,11 +87,6 @@
       "sha256": "dcb672eaefeca825dd43ac258cbbddb179d2434a96578a4b60e34624c33663ec"
     },
     {
-      "name": "eureka-1201-1.6.2.jar",
-      "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/eureka-1201-1.6.2.jar",
-      "sha256": "ee50b17c40f3c100176a809c8f242d9d366e5895d6a92b4c8482ecd9b3ac68be"
-    },
-    {
       "name": "fancymenu_forge_3.8.1_MC_1.20.1.jar",
       "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/fancymenu_forge_3.8.1_MC_1.20.1.jar",
       "sha256": "ba1ddf0f61def8ea87e7757ebb45f1390e1da0f7ebce1aff299b0a169b045858"
@@ -100,11 +95,6 @@
       "name": "kotlinforforge-4.12.0-all.jar",
       "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/kotlinforforge-4.12.0-all.jar",
       "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
-    },
-    {
-      "name": "valkyrienskies-120-2.4.5.jar",
-      "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/valkyrienskies-120-2.4.5.jar",
-      "sha256": "46fdd27ed7db78e708eb9381a25d0dfda7d892ac7db23dde816b509e04f97379"
     },
     {
       "name": "xaerominimap-fabric-26.1.2-25.3.10.jar",
