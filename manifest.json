@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "serverPack": {
-    "version": "v1",
-    "url": "https://github.com/charlie-schiaffino/trazo-launcher-releases/releases/download/serverpack-v1/serverpack.tar.gz"
+    "version": "v3",
+    "url": "https://github.com/charlie-schiaffino/trazo-launcher-releases/releases/download/serverpack-v3/serverpack.tar.gz"
   },
   "branding": {
     "logoUrl": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/assets/logo.png",
