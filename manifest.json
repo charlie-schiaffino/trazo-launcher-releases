@@ -118,6 +118,8 @@
     }
   ],
   "removedMods": [
-    "DistantHorizons"
+    "DistantHorizons",
+    "valkyrienskies",
+    "eureka"
   ]
 }
