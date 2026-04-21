@@ -115,6 +115,9 @@
       "name": "xaeroworldmap-fabric-26.1.2-1.40.14.jar",
       "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/xaeroworldmap-fabric-26.1.2-1.40.14.jar",
       "sha256": "479b30536616c2c1ae753b4dfce024da724c60ee84cc65b3a7b9ca300be8169b"
-    }
+    },
+    "removedMods": [
+      "DistantHorizons",
+    ],
   ]
 }
