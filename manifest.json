@@ -117,7 +117,7 @@
       "sha256": "479b30536616c2c1ae753b4dfce024da724c60ee84cc65b3a7b9ca300be8169b"
     },
     "removedMods": [
-      "DistantHorizons",
+      "DistantHorizons-3.0.1-b-26.1.2-fabric-neoforge.jar",
     ],
   ]
 }
