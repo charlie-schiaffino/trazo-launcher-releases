@@ -42,6 +42,11 @@
       "sha256": "516308a93824119f6a1ebc75425aa21ee8f8de0c331942793a054ba6d9c24944"
     },
     {
+      "name": "DistantHorizons-3.0.1-b-26.1.2-fabric-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/DistantHorizons-3.0.1-b-26.1.2-fabric-neoforge.jar",
+      "sha256": "9090a42d0df6c3097ae82bb337353b47844d4fbb9f44afb757a2483f5dbfccc5"
+    },
+    {
       "name": "DungeonsArise-1.20.x-2.1.58-release.jar",
       "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/DungeonsArise-1.20.x-2.1.58-release.jar",
       "sha256": "f8f1254dbe7ed7c1d5403f20361a36f0d0587c82b71313e3f427c7f1ce7c8a90"
