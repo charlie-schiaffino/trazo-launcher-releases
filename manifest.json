@@ -102,9 +102,9 @@
       "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
     },
     {
-      "name": "valkyrienskies-120-2.4.11.jar",
-      "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/valkyrienskies-120-2.4.11.jar",
-      "sha256": "f99f24de62015451a047f90484cf9d25970cac350105b581c22b2d5247ebfd53"
+      "name": "valkyrienskies-120-2.4.5.jar",
+      "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/valkyrienskies-120-2.4.5.jar",
+      "sha256": "46fdd27ed7db78e708eb9381a25d0dfda7d892ac7db23dde816b509e04f97379"
     },
     {
       "name": "xaerominimap-fabric-26.1.2-25.3.10.jar",
@@ -118,6 +118,6 @@
     }
   ],
   "removedMods": [
-      "DistantHorizons"
+    "DistantHorizons"
   ]
 }
