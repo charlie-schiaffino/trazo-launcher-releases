@@ -105,6 +105,16 @@
       "name": "valkyrienskies-120-2.4.11.jar",
       "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/valkyrienskies-120-2.4.11.jar",
       "sha256": "f99f24de62015451a047f90484cf9d25970cac350105b581c22b2d5247ebfd53"
+    },
+    {
+      "name": "xaerominimap-fabric-26.1.2-25.3.10.jar",
+      "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/xaerominimap-fabric-26.1.2-25.3.10.jar",
+      "sha256": "b7bbda149c60b4c0ad7f83571ef42ff324c2a82ca5365e45ba9ab1ab62ca82df"
+    },
+    {
+      "name": "xaeroworldmap-fabric-26.1.2-1.40.14.jar",
+      "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/xaeroworldmap-fabric-26.1.2-1.40.14.jar",
+      "sha256": "479b30536616c2c1ae753b4dfce024da724c60ee84cc65b3a7b9ca300be8169b"
     }
   ]
 }
