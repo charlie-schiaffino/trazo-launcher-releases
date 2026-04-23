@@ -97,14 +97,14 @@
       "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
     },
     {
-      "name": "xaerominimap-fabric-26.1.2-25.3.10.jar",
-      "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/xaerominimap-fabric-26.1.2-25.3.10.jar",
-      "sha256": "b7bbda149c60b4c0ad7f83571ef42ff324c2a82ca5365e45ba9ab1ab62ca82df"
+      "name": "xaerominimap-forge-1.21.11-25.3.10.jar",
+      "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/xaerominimap-forge-1.21.11-25.3.10.jar",
+      "sha256": "8e1069575ac2a5ab9b75fe6b21d258c030ab10389e5c45f27a9e113089cb95af"
     },
     {
-      "name": "xaeroworldmap-fabric-26.1.2-1.40.14.jar",
-      "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/xaeroworldmap-fabric-26.1.2-1.40.14.jar",
-      "sha256": "479b30536616c2c1ae753b4dfce024da724c60ee84cc65b3a7b9ca300be8169b"
+      "name": "xaeroworldmap-forge-1.21.11-1.40.11.jar",
+      "url": "https://raw.githubusercontent.com/charlie-schiaffino/trazo-launcher-releases/main/client-mods/xaeroworldmap-forge-1.21.11-1.40.11.jar",
+      "sha256": "a40541ad4e762d97da2931cf9d81d99602890482a8c4c6036410d42a8ae6dc88"
     }
   ],
   "removedMods": [
